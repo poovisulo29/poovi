@@ -1,0 +1,14 @@
+<table border ="1">
+    <tr>
+        <th> qulification </th>
+        <th> deparment </th>
+        <th> grade </th>
+        <th> year of passing </th>
+    </tr>
+    <tr>
+        <td> B.E </td>
+        <td> CSE (AI) </td>
+        <td> 9.8 </td>
+        <td> 2026 </td>
+    </tr>
+</table>
